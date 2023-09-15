@@ -1,5 +1,8 @@
 # YOLO Object Detection
 
-In this project I've used YOLOv3 pre-trained model to classify objects in given images and videos using [ImageAI](./Imageai/) and [OpenCV](./OpenCV/) libraries
+Here in this Repo, I upload my practices with respect to YOLO algorithms
 
-I should mention that this version of YOLO which is v3, is replaced by newer and efficient ones.
+- [YOLOv3](./YOLOv3/)
+- [YOLOv5](./YOLOv5/)
+- [YOLOv7](./YOLOv7/)
+- [YOLOv8](./YOLOv8/)
